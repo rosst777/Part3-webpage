@@ -10,6 +10,6 @@ Create a webpage with github
 
 
 ---
-[^1]:This will have a footnote [^1]: This is a footnote.
+This will have a footnote [^1]: This is a footnote.
 
 [Toronto Star](https://www.thestar.com) 
