@@ -15,6 +15,6 @@ tower-of-london.jpg
 This will have a footnote [^1]
 [^1]: This is a footnote.
 
-![London Tower pic](tower-of-London.jpg)
+![London Tower pic](tower-of-london.jpg)
 
 [Toronto Star](https://www.thestar.com) 
