@@ -1,7 +1,7 @@
 # Part3-webpage
 Create a webpage with github
-#H1 Welcome to my Travel Website
-#H2 by Teresa
+## Welcome to my Travel Website
+### by Teresa
 
 **updated May 18, 2022**
 *version 1*
@@ -12,4 +12,4 @@ Create a webpage with github
 ---
 This will have a footnote [^1] This is a footnote [^1]
 
-
+[Toronto Star](https://www.thestar.com)
