@@ -11,8 +11,11 @@ Create a webpage with github
 
 
 ![London Tower pic](tower-of-london.jpg)
+
 ---
+
 This will have a footnote [^1]
+
 
 [^1]: This is a footnote.
 
