@@ -6,7 +6,7 @@ Create a webpage with github
 **updated May 18, 2022**
 *version 1*
 
-![alt text](London Tower.jpg)
+![London Tower](London Tower.jpg)
 
 
 ---
