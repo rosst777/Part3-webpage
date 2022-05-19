@@ -1,30 +1,30 @@
-#if .jpg is put into repository, it will be moved to the images folder
+ ###commented out #if .jpg is put into repository, it will be moved to the images folder
 
-name: JPGMover
+ ###commented out name: JPGMover
 
 
-on:
+ ###commented out on:
  
-  push:
-    paths:
-      - '**.jpg'
+  ###commented out  push:
+  ###commented out    paths:
+  ###commented out      - '**.jpg'
 
-  pull_request:
-    paths:
-     - '**.jpg'
+ ###commented out   pull_request:
+  ###commented out    paths:
+  ###commented out     - '**.jpg'
     
 
-  workflow_dispatch:
+   ###commented out workflow_dispatch:
 
 
-jobs:
-  move-jpg:
+ ###commented out jobs:
+ ###commented out   move-jpg:
   
      
-    runs-on: ubuntu-latest
+ ###commented out     runs-on: ubuntu-latest
 
    
-    steps:
+  ###commented out    steps:
     
  ###commented out      - uses: actions/checkout@v3
 
